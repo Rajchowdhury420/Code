@@ -1,0 +1,25 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "I am editing the README file. Adding some more details about the project description.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajchowdhury420/Code.git"
+  },
+  "author": "Raj Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajchowdhury420/Code/issues"
+  },
+  "homepage": "https://github.com/Rajchowdhury420/Code#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "random": "^2.1.1",
+    "simple-git": "^1.130.0"
+  }
+}
